@@ -1,0 +1,7 @@
+프로젝트 관련
+
+목표: RAG(Retrieval-Argument Generation)를 간단하게 구현해보기.
+사용 모델: GPT(3.5-turbo, 4), LLaMa(3.2-1B-Instruction)
+
+사용 라이브러리: faiss, openai 등
+
